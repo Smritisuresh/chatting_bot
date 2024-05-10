@@ -17,7 +17,7 @@ Before you begin, ensure you have the following software installed on your compu
 1. Clone the project repository to your local machine using Git. Open your terminal or command prompt and run the following command:
 
    ```bash
- https://github.com/om-666/Chat.git
+ [https://github.com/Smritisuresh/chatting_bot]
    ```
 2. Navigate to the project directory:
 
